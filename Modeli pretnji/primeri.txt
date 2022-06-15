@@ -1,0 +1,22 @@
+1. Spoofing - sve sto je vezano za auth
+- Neko zna email a pogadja password
+- bruteforce napad na password
+- mehanizmi za oporavak naloga
+
+2. Tampering - neautorizovana izmena podataka
+- Imamo samo read mogucnost, a pokusavamo da menjamo podatke
+- injection napad
+
+3. Repudiation - uticu na neporecivost
+- Izmena ili brisanje log zapise, fajlove od strane nekoga
+
+4. Information disclosure - curenje podataka koji ne bi trebali da procure haha
+- podaci o kartici itd
+- xss napad
+- 
+
+5. Denial of service 
+- pukne server jer je previse opterecen
+
+6. Elevation of privilege 
+- napadac se docepa privilegija koje mu nisu dozvoljene (neodgovarajuca rola)
